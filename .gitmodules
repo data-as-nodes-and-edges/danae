@@ -1,0 +1,3 @@
+[submodule "lib/danae"]
+	path = lib/danae
+	url = git@github.com:data-as-nodes-and-edges/libdanae.git
